@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hello, I am Jesse. I like C# and caffiene.
+Mexican food is my favorite. 
